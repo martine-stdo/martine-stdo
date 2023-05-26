@@ -21,7 +21,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=martine-stdo&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### ✍️🤔 今天你励志了吗？
+### ✍️🤔 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
